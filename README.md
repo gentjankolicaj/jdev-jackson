@@ -5,7 +5,7 @@ java helper & util classes combined with jackson for SDLC.
 ## How to use it ?
 
 This is not pushed to Maven central... yet. But still you can use it
-via [jitpack.io](https://jitpack.io/docs/).
+via [![](https://jitpack.io/v/gentjankolicaj/jdev-jackson.svg)](https://jitpack.io/#gentjankolicaj/jdev-jackson).
 
 Add the jitpack repository to your maven repositories:
 
@@ -27,7 +27,7 @@ from [gitHub releases page](https://github.com/gentjankolicaj/jdev-jackson/relea
 <dependency>
     <groupId>com.github.gentjankolicaj</groupId>
     <artifactId>jdev-jackson</artifactId>
-    <version>main-SNAPSHOT</version>
+    <version>main-${jitpack-version}</version>
 </dependency>
  ```
 
