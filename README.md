@@ -11,12 +11,10 @@ Add the jitpack repository to your maven repositories:
 
  ```
 <repositories>
-    ...
     <repository>
         <id>JitPack</id>
         <url>https://jitpack.io</url>
     </repository>
-    ...
 </repositories>
  ```
 
