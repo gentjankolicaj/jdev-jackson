@@ -1,5 +1,7 @@
 package io.jdev.jackson;
 
+import static org.assertj.core.api.Assertions.assertThat;
+
 import java.net.URL;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
